@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ayan!<br><br>🎓 BCA 3rd Year Student  <br>💼 Completed an internship in Python with Django (Backend Development)  <br>🔭 I’m currently looking for internship opportunities in Python / Django / Backend Development  <br>🌱 I’m currently learning Advanced Python and improving Django skills  <br>👯 I’m open to collaborating on Django, backend, and database-driven projects  <br>💬 Ask me about Core Python, Django basics, CRUD apps, and backend logic  <br>⚡ Fun fact: I love building backend logic more than designing UI 😄
+👋 Hi, I'm Ayan!<br><br>🎓 BCA 3rd Year Student  <br>💼 Completed an internship in Python with Django (Backend Development)  <br>🔭 I’m currently looking for internship opportunities in Python Development  <br>🌱 I’m currently learning Advanced Python skills  <br>👯 I’m open to collaborating on backend and database-driven projects  <br>💬 Ask me about Core Python, CRUD apps, and backend logic  <br>⚡ Fun fact: I love building backend logic more than designing UI 😄
 
 
 ## 🌐 Socials:
